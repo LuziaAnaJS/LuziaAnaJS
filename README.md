@@ -1,7 +1,5 @@
-<!-- Texto animado bilíngue no topo -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=900&size=22&pause=1000&color=F720D4&center=true&vCenter=true&width=600&lines=Olá%2C+sou+Luzia+Ana!;Bem-vindo!;Dev+em+evolução+🚀;Hi%2C+I'm+Luzia+Ana!;Welcome!;Dev+in+progress+🚀" alt="Typing SVG" />
-</p>
+<!-- Banner animado bilíngue com emojis -->
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F720D4&center=true&vCenter=true&width=500&lines=👩‍💻+Olá%2C+sou+a+Luzia+Ana!;🚀+Dev+em+evolução;✨+Bem-vindo+ao+meu+GitHub!;👩‍💻+Hi%2C+I'm+Luzia+Ana!;🚀+Dev+in+progress;🌟+Welcome+to+my+GitHub!)
 
 ---
 
