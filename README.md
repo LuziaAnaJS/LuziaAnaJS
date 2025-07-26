@@ -1,6 +1,6 @@
 <!-- Texto animado bilíngue no topo -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=900&size=22&pause=1000&color=F720D4&center=true&vCenter=true&width=500&lines=Olá%2C+sou+a+Luzia+Ana!;Bem-vindo+ao+meu+GitHub!;Full+Stack+Dev+em+evolução+🚀;Hi%2C+I'm+Luzia+Ana!;Welcome+to+my+GitHub!;Full+Stack+Dev+in+progress+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=900&size=22&pause=1000&color=F720D4&center=true&vCenter=true&width=600&lines=Olá%2C+sou+Luzia+Ana!;Bem-vindo!;Dev+em+evolução+🚀;Hi%2C+I'm+Luzia+Ana!;Welcome!;Dev+in+progress+🚀" alt="Typing SVG" />
 </p>
 
 ---
