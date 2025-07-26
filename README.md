@@ -1,54 +1,65 @@
-<!-- Banner animado -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F720D4&center=true&vCenter=true&width=435&lines=Olá%2C+eu+sou+a+Luzia!;Desenvolvedora+Full+Stack+JavaScript;Amo+resolver+problemas+com+código%21;Bem-vindo+ao+meu+GitHub!)
+<!-- Banner visual personalizado -->
+<p align="center">
+  <img src="https://github.com/LuziaAnaJS/LuziaAnaJS/blob/main/banner_luzia_ana.png.jpg?raw=true" alt="Olá, sou a Luzia Ana!" />
+</p>
+
+<!-- Texto animado bilíngue -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=24&pause=1000&color=F720D4&center=true&vCenter=true&width=480&lines=Olá%2C+sou+a+Luzia+Ana!;Bem-vindo+ao+meu+GitHub!;Full+Stack+Dev+em+evolução+🚀;Hi%2C+I'm+Luzia+Ana!;Welcome+to+my+GitHub!;Full+Stack+Dev+in+progress+🚀" alt="Typing SVG" />
+</p>
 
 ---
 
-### 👩‍💻 Sobre mim
+### ✨ Sobre mim / About me
 
-Sou desenvolvedora full stack com foco em **JavaScript, React, Node.js e Python**. Gosto de criar aplicações que resolvem problemas reais e valorizo código limpo e boas práticas.
+Sou desenvolvedora full stack júnior, apaixonada por transformar ideias em soluções digitais.  
+Atualmente focada em evoluir com projetos práticos, front e back-end.  
+📍 Brasil | 🌍 Disponível para trabalho remoto
 
-Estou em transição de carreira, me dedicando aos estudos e construção de projetos próprios — como um **app de delivery**, **clone do Spotify** e um **controle financeiro mensal**.
-
-Busco oportunidades remotas, freelas e desafios para aplicar tudo que venho aprendendo!
-
----
-
-### ✨ Frase que me inspira
-> "Você não precisa ser grande para começar, mas precisa começar para ser grande." – Zig Ziglar
+I'm a junior full stack developer passionate about turning ideas into digital solutions.  
+Currently focused on growing through hands-on projects, both front-end and back-end.  
+📍 Brazil | 🌍 Open to remote work opportunities
 
 ---
 
-### 🚀 Tech Stack
+### 💻 Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=fff)
-
----
-
-### 📊 GitHub Stats
-
-![Luzia's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuziaAnaJS&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuziaAnaJS&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff" alt="Python" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff" alt="GitHub" />
+</p>
 
 ---
 
-### 🌎 Onde me encontrar
+### 🧠 Projetos em destaque / Featured Projects
 
-[![LinkedIn](https://img.shields.io/badge/-Luzia_Ana_JS-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luzia-ana-js)
-[![Email](https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luzianajorge333@icloud.com)
+- 🎧 [Réplica Spotify](https://github.com/LuziaAnaJS/deploy-projeto-replica-spotify): Clone responsivo com React, estilização moderna, e player funcional.
+
+- 💸 [Controle financeiro](https://github.com/LuziaAnaJS/controle-financeiro): App para controle de despesas, receitas e saldo mensal.
+
+(Em breve mais projetos!)
 
 ---
 
-### 📌 Projetos em destaque
+### 📬 Contato / Contact
 
-- [Controle Financeiro Mensal](https://github.com/LuziaAnaJS/controle-financeiro) — Cadastro de entradas/saídas, filtros por data e gráfico.
-- [Clone do Spotify](https://github.com/LuziaAnaJS/deploy-projeto-replica-spotify) — Interface inspirada no Spotify usando React.
-- [Delivery App (em construção)](https://github.com/LuziaAnaJS/delivery-app) — Backend em Node.js e frontend com React.
-
+<p align="center">
+  <a href="mailto:luzianajorge333@icloud.com">
+    <img src="https://img.shields.io/badge/E--mail-@-blueviolet?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+  </a>
+  <a href="https://linkedin.com/in/luzia-ana-js" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-LuziaAnaJS-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/LuziaAnaJS" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-LuziaAnaJS-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
