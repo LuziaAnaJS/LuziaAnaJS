@@ -1,7 +1,7 @@
 <!-- Banner animado bilíngue com emojis -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F720D4&center=true&vCenter=true&width=500&lines=👩‍💻+Olá%2C+sou+a+Luzia+Ana!;🚀+Dev+em+evolução;✨+Bem-vindo+ao+meu+GitHub!;👩‍💻+Hi%2C+I'm+Luzia+Ana!;🚀+Dev+in+progress;🌟+Welcome+to+my+GitHub!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F720D4&center=true&vCenter=true&width=500&lines=+Olá%2C+sou+a+Luzia+Ana!;Dev+em+evolução🚀;Bem-vindo+ao+meu+GitHub! ✨;Hi%2C+I'm+Luzia+Ana!;Dev+in+progress🚀;Welcome+to+my+GitHub! 🌟)
 
----
+--
 
 ### 🧑‍💻 Sobre mim / About me
 
